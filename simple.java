@@ -1,11 +1,8 @@
 class simple{
  public static void main(String args[]){
-
-
-System.out.println("welocome to Edureka
+System.out.println("Hello Edureka")
 }
 }
-
 
 
 
